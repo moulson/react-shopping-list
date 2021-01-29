@@ -1,10 +1,12 @@
-[
-    {
+{
+    "lists": [
+      {
         "id": 1,
         "title": "Daily groceries"
-    },
-    {
+      },
+      {
         "id": 2,
         "title": "Birthday youngest child"
-    }
-]
+      }
+    ]
+  }
